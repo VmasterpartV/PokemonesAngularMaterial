@@ -1,0 +1,17 @@
+button {
+    margin-right: 0.5rem;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+@media screen and (max-width: 600px){
+    .pokeid {
+        display: none !important;
+    }
+}

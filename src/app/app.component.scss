@@ -1,0 +1,10 @@
+.container {
+    padding: 2.5rem;
+    padding-top: 1.5rem;
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        padding: 0;
+    }
+}
